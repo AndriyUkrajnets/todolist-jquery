@@ -18,5 +18,4 @@ y":"2",
 "priority":"1",
 "project_id":"2",
 "status":"done"
-}]}
-C:\Users\Admin\Documents\GitHub\todolist-jquery
+}

@@ -1,0 +1,13 @@
+//https://sheetsu.com/apis/bf51cad6
+{
+"status":200,
+"success":true,
+"result":[{"id":"1","name":"first"
+},
+{
+"id":"2",
+"name":"second"},
+{
+"id":"1",
+"name":"third"
+}
